@@ -6,9 +6,9 @@
 spring:
     profiles: dev
     application:
-        name: microservicecloud-config-XXX-dev
+        name: microservicecloud-config-xsl-dev
 ---
 spring:
     profiles: test
     application:
-        name: microservicecloud-config-XXX-test
+        name: microservicecloud-config-xsl-test
